@@ -18,7 +18,7 @@ https://agriveista.vercel.app
 
 ## 📸 Screenshots
 ![WhatsApp Image 2026-04-03 at 2 51 48 PM](https://github.com/user-attachments/assets/04aea5df-dd24-45fd-b516-b641347cab05)
-![WhatsApp Image 2026-04-03 at 2 51 48 PM](https://github.com/user-attachments/assets/1a451ec5-64e8-4c90-a678-e5f186b4ca41)
+![WhatsApp Image 2026-04-03 at 2 51 48 PM (1)](https://github.com/user-attachments/assets/ae27e653-ea73-481e-b978-63cbd1bb8265)
 
 
 ## ⚙️ Installation
