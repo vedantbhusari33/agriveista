@@ -1,4 +1,4 @@
-# 🌱 AgriVista - Smart Farming Assistant
+# 🌱 AgriVeista - Smart Farming Assistant
 
 AgriVista is a web-based smart farming assistant designed to help farmers make better decisions using technology.
 
