@@ -1,6 +1,6 @@
 # 🌱 AgriVeista - Smart Farming Assistant
 
-AgriVista is an AI-powered web application designed to assist farmers in making better agricultural decisions. It provides intelligent crop recommendations, disease detection using images, and real-time weather insights using APIs.
+AgriVeista is an AI-powered web application designed to assist farmers in making better agricultural decisions. It provides intelligent crop recommendations, disease detection using images, and real-time weather insights using APIs.
 
 ---
 
