@@ -3,10 +3,13 @@
 AgriVista is a web-based smart farming assistant designed to help farmers make better decisions using technology.
 
 ## 🚀 Features
-- 🌾 Crop Recommendation System
-- 🌦 Weather Insights
-- 📊 Smart Farming Suggestions
-- 📱 Responsive UI
+- 🌾 AI-based crop recommendation system
+- 🌦 Real-time weather insights
+- 📊 Smart farming suggestions
+- 🏛 Access to government schemes and subsidies for farmers
+- 🦠 Crop disease detection using image analysis
+- ⚖️ Crop comparison for better decision making
+- 📱 Responsive and user-friendly interface
 
 ## 🛠 Tech Stack
 - Frontend: React.js
