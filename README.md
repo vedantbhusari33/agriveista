@@ -18,12 +18,17 @@ https://agriveista.vercel.app
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![WhatsApp Image 2026-04-03 at 2 51 48 PM](https://github.com/user-attachments/assets/04aea5df-dd24-45fd-b516-b641347cab05)
-<img src="./screenshots/home.png" width="600"/>
+### 🌿 Splash Screen
+
+<p align="center">
+  <img width="300" height="1422" alt="image" src="https://github.com/user-attachments/assets/6ee5fd11-9bb2-46fd-a1af-388cbb181624" />
+</p>
+
 ### 🌾 Features Page
-![WhatsApp Image 2026-04-03 at 2 51 48 PM (1)](https://github.com/user-attachments/assets/ae27e653-ea73-481e-b978-63cbd1bb8265)
-<img src="./screenshots/features.png" width="600"/>
+
+<p align="center">
+  <img width="300" height="1426" alt="image" src="https://github.com/user-attachments/assets/c5766357-ed86-441e-ba16-f49af853a158" />
+</p>
 
 ## ⚙️ Installation
 
